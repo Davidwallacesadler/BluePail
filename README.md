@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="300" height="300" src="https://github.com/Davidwallacesadler/BluePail/blob/master/LargeAppLogo.png?raw=true">
+</p>
 # Blue Pail
 The Best and easiest way on iOS to keep track of your plants watering schedules!
 ## Technologies
