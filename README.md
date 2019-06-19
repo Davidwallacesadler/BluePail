@@ -1,2 +1,2 @@
-# BluePail
-A plant watering reminder application designed for simple tracking of your plants watering schedules.
+# Blue Pail
+The Best and easiest way to keep track of your plants watering schedules!
