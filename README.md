@@ -12,7 +12,7 @@ The easiest way to keep track of your plants watering schedules!
 ## Features
 * Easily set up and manage your plants with a simple to use interface.
 * Group and filter your plants with custom tags. 
-* Track your plant's watering schedule by entering in a desired time to be notified and the amount of days to the next watering.
+* Track your plant's watering schedule by entering in the amount of days to the next watering and the desired time to be notified that day.
 ## Upcoming Features
 * Proper iPad UI support
 * Water your plants the from Notifcation Center by force touching on the notification
