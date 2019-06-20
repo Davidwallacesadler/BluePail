@@ -3,7 +3,7 @@
 </p>
 
 # Blue Pail
-The easiest way to keep track of your plants watering schedules!
+A simple way to keep track of plant watering schedules!
 ## Technologies
 * Swift
 * CoreData
