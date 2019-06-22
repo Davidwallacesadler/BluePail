@@ -17,6 +17,7 @@ A simple way to keep track of plant watering schedules!
 * Better text scaling for larger devices
 * Landscape orientation support
 * Proper iPad UI support
+* More customizability - User Settings
 * Water your plants or reschedule the watering date the from Notifcation Center by force touching on the notification
 * Enable Cloud sharing to enable the sharing of plant collections with housemates so multiple users can work together to keep their plants watered
 ## Privacy Policy
